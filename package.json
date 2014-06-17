@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-bourbon",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Ember CLI add-on to inject bourbon into Ember apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "keywords": [
     "ember-cli-addon"
   ],
-  "author": "",
+  "author": "Joe Fiorini",
   "license": "ISC"
 }
